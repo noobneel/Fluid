@@ -1,2 +1,3 @@
 # Fluid
 A Brief Demo of how water works in game...
+The Demo is on the Assets -> Scene -> SampleScene.unity
